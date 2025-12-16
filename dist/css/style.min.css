@@ -67,7 +67,7 @@
 }
 
 
-@media screen and (max-widht 1200px){
+@media screen and (max-widht: 1200px){
     .service img{
         width: 220px;
     }
